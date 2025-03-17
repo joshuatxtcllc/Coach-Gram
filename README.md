@@ -1,10 +1,10 @@
-# SocialGuardian
+# Coach Gram
 
 ## Smart Social Media Management, Protection & Growth Platform
 
-SocialGuardian is an advanced AI-powered social media management system that combines content optimization, performance analytics, automation, and account protection in one integrated platform.
+Coach Gram is an advanced AI-powered social media management system that combines content optimization, performance analytics, automation, and account protection in one integrated platform.
 
-![SocialGuardian Logo](./assets/images/logo.png)
+![SCoach Gram Logo](./assets/images/logo.png)
 
 ## 🌟 Key Features
 
@@ -82,7 +82,7 @@ The core database models are outlined in the [Database Schema](./docs/architectu
 
 ## 🔐 Security & Privacy
 
-SocialGuardian prioritizes user data security and compliance:
+Coach Gram prioritizes user data security and compliance:
 
 - End-to-end encryption for follower data backup
 - GDPR and CCPA compliant user data handling
@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-© 2025 SocialGuardian. All rights reserved.
+© 2025 Coach Gram. All rights reserved.
